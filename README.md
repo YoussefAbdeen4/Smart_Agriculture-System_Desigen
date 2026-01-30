@@ -28,31 +28,25 @@ Millions of tons of produce are wasted annually due to "Misdiagnosis" and delaye
 
 2.3 Beneficiaries 
 
-* 
-**Farmers:** Gain immediate access to diagnostic tools and localized weather data.
+* **Farmers:** Gain immediate access to diagnostic tools and localized weather data.
 
 
-* 
-**Agricultural Engineers:** Efficiently manage multiple farms remotely.
+* **Agricultural Engineers:** Efficiently manage multiple farms remotely.
 
 
-* 
-**The Agricultural Sector:** Benefits from digitized data and improved productivity.
+* **The Agricultural Sector:** Benefits from digitized data and improved productivity.
 
 
 
 2.4 Main Techniques 
 
-* 
-**Deep Learning:** CNN architectures (MobileNetV2 and ResNet50).
+* **Deep Learning:** CNN architectures (MobileNetV2 and ResNet50).
 
 
-* 
-**Cross-Platform Development:** React Native for Android and iOS.
+* **Cross-Platform Development:** React Native for Android and iOS.
 
 
-* 
-**Real-time Infrastructure:** Firebase Firestore and Cloud Functions.
+* **Real-time Infrastructure:** Firebase Firestore and Cloud Functions.
 
 
 
@@ -62,24 +56,19 @@ Millions of tons of produce are wasted annually due to "Misdiagnosis" and delaye
 
 Farmers face several persistent challenges:
 
-1. 
-**Difficulty in Early Disease Identification**.
+1. **Difficulty in Early Disease Identification**.
 
 
-2. 
-**Limited Access to Expertise** in rural areas.
+2. **Limited Access to Expertise** in rural areas.
 
 
-3. 
-**Lack of Centralized Knowledge**.
+3. **Lack of Centralized Knowledge**.
 
 
-4. 
-**Climate Variations** and unpredictable weather.
+4. **Climate Variations** and unpredictable weather.
 
 
-5. 
-**Inefficient Farm Management** due to manual tracking.
+5. **Inefficient Farm Management** due to manual tracking.
 
 
 
@@ -100,8 +89,6 @@ We identified gaps in current market solutions:
 | **Bilingual Blog (TTS)** | Yes (Audio Support) | No | No | No |
 | 
 
- |  |  |  |  |
-
 **Key Differentiation:** Unlike Plantix, our system supports "Farm Sharing" and "Private Consulting" for professional relationships.
 
 ---
@@ -110,85 +97,67 @@ We identified gaps in current market solutions:
 
 5.1 System Architecture 
 
-* 
-**Presentation Layer (Client):** Web App (React / next.js) & Dashboard.
+* **Presentation Layer (Client):** Web App (React / next.js) & Dashboard.
 
 
-* 
-**Service Layer (API):** Laravel/FastAPI.
+* **Service Layer (API):** Laravel/FastAPI.
 
 
-* 
-**Intelligence Layer (AI Engine):** TensorFlow models on cloud GPU.
+* **Intelligence Layer (AI Engine):** TensorFlow models on cloud GPU.
 
 
-* 
-**Data Layer:** Firebase Firestore & Storage.
+* **Data Layer:** Firebase Firestore & Storage.
 
 
 
 5.2 Stakeholders 
 
-* 
-**The Farmer:** Primary user.
+* **The Farmer:** Primary user.
 
 
-* 
-**The Agricultural Engineer:** Provides consulting and publishes blogs.
+* **The Agricultural Engineer:** Provides consulting and publishes blogs.
 
 
-* 
-**AI Service Providers:** Automated entities (Pest/Disease APIs).
+* **AI Service Providers:** Automated entities (Pest/Disease APIs).
 
 
 
 5.3 Functional Requirements 
 
-* 
-**User Management:** Role-based registration.
+* **User Management:** Role-based registration.
 
 
-* 
-**Farm Management:** Tracking crop life cycles and sharing access.
+* **Farm Management:** Tracking crop life cycles and sharing access.
 
 
-* 
-**AI Diagnostics:** Instant analysis for pests/diseases.
+* **AI Diagnostics:** Instant analysis for pests/diseases.
 
 
-* 
-**Communication Hub:** 24/7 AI Chatbot and direct chat.
+* **Communication Hub:** 24/7 AI Chatbot and direct chat.
 
 
-* 
-**Weather Intelligence:** Daily risk notifications.
+* **Weather Intelligence:** Daily risk notifications.
 
 
-* 
-**Educational Module:** Blog system with text, images, and audio.
+* **Educational Module:** Blog system with text, images, and audio.
 
 
 
 5.4 Non-Functional Requirements 
 
-* 
-**Performance:** Image analysis (2-5 sec), UI response (1-2 sec).
+* **Performance:** Image analysis (2-5 sec), UI response (1-2 sec).
 
 
-* 
-**Security:** Full encryption and RBAC.
+* **Security:** Full encryption and RBAC.
 
 
-* 
-**Usability:** Simple design for varying technical literacy.
+* **Usability:** Simple design for varying technical literacy.
 
 
-* 
-**Localization:** Arabic and English support.
+* **Localization:** Arabic and English support.
 
 
-* 
-**Availability:** 99% uptime.
+* **Availability:** 99% uptime.
 
 
 
@@ -198,28 +167,22 @@ We identified gaps in current market solutions:
 
 6.1 Entity Relationship Diagram (ERD) Description 
 
-1. 
-**Users:** Stores info and roles (Farmer vs. Engineer).
+1. **Users:** Stores info and roles (Farmer vs. Engineer).
 
 
-2. 
-**Farms:** Metadata like location (Lat/Long) and soil type.
+2. **Farms:** Metadata like location (Lat/Long) and soil type.
 
 
-3. 
-**Plants:** Tracks specific crop instances.
+3. **Plants:** Tracks specific crop instances.
 
 
-4. 
-**Reports:** AI diagnostic outputs and treatment plans.
+4. **Reports:** AI diagnostic outputs and treatment plans.
 
 
-5. 
-**Blogs:** Educational content.
+5. **Blogs:** Educational content.
 
 
-6. 
-**Chat/Messages:** Real-time communication.
+6. **Chat/Messages:** Real-time communication.
 
 
 
@@ -285,6 +248,5 @@ We identified gaps in current market solutions:
 | 6. Backend Development | Setting up Firebase, APIs, and Auth | **In Progress** |
 | 7. Frontend Development | Building React Native screens and logic | **Expected** |
 | 8. Integration | Linking AI models and Weather APIs | **Expected** |
-| 
 
- |  |  |
+
