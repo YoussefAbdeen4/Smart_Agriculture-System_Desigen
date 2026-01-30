@@ -87,7 +87,7 @@ We identified gaps in current market solutions:
 | **Localized Recommendations** | AI-Based (Soil + Weather) | Basic | None | No |
 | **Predictive Weather Risk** | Yes (10 PM Risk Alerts) | Standard Forecast | No | No |
 | **Bilingual Blog (TTS)** | Yes (Audio Support) | No | No | No |
-| 
+
 
 **Key Differentiation:** Unlike Plantix, our system supports "Farm Sharing" and "Private Consulting" for professional relationships.
 
@@ -217,20 +217,16 @@ We identified gaps in current market solutions:
 
 7. AI Components & Training Details 
 
-* 
-**Feature List:** Leaf color histograms, texture gradients, edge patterns, and spot morphology.
+* **Feature List:** Leaf color histograms, texture gradients, edge patterns, and spot morphology.
 
 
-* 
-**Dataset:** 40,000+ images (PlantVillage + localized Egyptian samples).
+* **Dataset:** 40,000+ images (PlantVillage + localized Egyptian samples).
 
 
-* 
-**Training Process:** Transfer Learning (ImageNet) fine-tuned for agriculture.
+* **Training Process:** Transfer Learning (ImageNet) fine-tuned for agriculture.
 
 
-* 
-**Inference:** Quantized TFLite (mobile) and standard TF models (server).
+* **Inference:** Quantized TFLite (mobile) and standard TF models (server).
 
 
 
