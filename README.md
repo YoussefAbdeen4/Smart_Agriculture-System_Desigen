@@ -242,7 +242,8 @@ We identified gaps in current market solutions:
 | 4. UI/UX Prototyping | High-fidelity Figma designs for mobile/web | **Completed** |
 | 5. AI Model Training | Implementing CNNs and testing accuracy | **In Progress** |
 | 6. Backend Development | Setting up Firebase, APIs, and Auth | **In Progress** |
-| 7. Frontend Development | Building React Native screens and logic | **Expected** |
+| 7. Frontend Development | Building React/Next.js screens and logic | **Expected** |
 | 8. Integration | Linking AI models and Weather APIs | **Expected** |
-
+| 9. Testing & QA | Debugging and User Acceptance Testing | **Expected** |
+| 10. Deployment | Publishing App to Stores (Play Store) and hosting Backend/AI on Cloud (GCP/AWS) | Expected | 
 
